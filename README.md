@@ -2,7 +2,7 @@
 
 **ServerChat** is a terminal-based chat room application that allows multiple users to connect locally, enter a username, and start chatting with each other in real-time. Messages are visible to all users in the chat room, creating a shared conversation space with fun commands and interactive features.
 
-## 📑 Table of Contents
+## 📑 Table of Contents 
 
 - [About the Project](#about-the-project)
 - [Features](#features)
